@@ -9,5 +9,5 @@ If executed with your name as an argument, gives a friendly greeting. Otherwise,
 # rec04B.sh
 Executes a user-given Linux command.
 
-# rec04C.c
+# rec04C.sh
 Generates a random number, which the user must guess to win.
